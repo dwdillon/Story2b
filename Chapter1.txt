@@ -1,1 +1,2 @@
 This is the contents of chapter 1
+This is an added line to the story in the branch.
